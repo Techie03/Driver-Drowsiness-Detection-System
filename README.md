@@ -17,7 +17,7 @@ A real-time alertness monitoring solution using computer vision and the Eye Aspe
 ## 🛠️ Technologies Used
 
 - **OpenCV** - Real-time computer vision and video processing
-- **dlib** - Facial landmark detection (68-point model)
+- **dlib** - Facial landmark detection (68-point model) - you need to install dat file and i will be providing dat file in the files section.
 - **SciPy** - Euclidean distance calculations for EAR
 - **NumPy** - Numerical computations
 - **Pygame** - Audio alarm system
