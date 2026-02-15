@@ -454,6 +454,11 @@ def detect_drowsiness(self, ear_value, current_time):
     return "ALERT"
 ```
 
+## Result
+
+<img width="5970" height="3570" alt="detection_analysis" src="https://github.com/user-attachments/assets/6025ca85-4e0a-4f53-b10d-1f3e7b6f8628" />
+
+
 ## 🎓 Learning Outcomes
 
 This project demonstrates:
