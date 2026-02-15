@@ -539,6 +539,4 @@ tester.visualize_results(ear_data, labels, results)
 
 ---
 
-*Generated: February 14, 2026*  
-*Project: Driver Drowsiness Detection System*  
-*Achievement: 92% Precision @ 30 FPS with 18% False Alarm Reduction*
+
