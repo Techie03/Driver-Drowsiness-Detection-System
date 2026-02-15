@@ -3,6 +3,12 @@
 ## Project Overview
 A real-time alertness monitoring solution using computer vision and the Eye Aspect Ratio (EAR) algorithm to detect driver drowsiness. The system achieves **92% detection precision** by analyzing video at **30 frames per second** using dlib's facial landmark detection.
 
+## Project Demo Video - 
+
+https://github.com/user-attachments/assets/4a9a3a4b-d7e7-4a60-bbae-e1ad812c9860
+
+
+
 ## 🎯 Key Achievements
 
 - ✅ **92% Detection Precision** through calibrated EAR thresholds
